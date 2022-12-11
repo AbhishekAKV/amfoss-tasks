@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Titan+One&display=swap');
+body {
+  text-align: center;
+  background-color: #283149;
+  font-family: 'Titan One', cursive;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+
+.w {
+  color: aqua;
+  background-color: teal;
+  box-shadow: 0 8px 16px 0 rgba(17, 93, 155, 0.788), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.a {
+  color: green;
+  background-color: yellow;
+  box-shadow: 0 8px 16px 0 rgba(172, 212, 27, 0.671), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.s {
+  color: bisque;
+  background-color: brown;
+  box-shadow: 0 8px 16px 0 rgba(173, 67, 67, 0.589), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.d {
+  color: azure;
+  background-color: grey;
+  box-shadow: 0 8px 16px 0 rgba(133, 128, 128, 0.589), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.j {
+  color: crimson;
+  background-color: rgb(216, 191, 216);
+  box-shadow: 0 8px 16px 0 #d8bfd8, 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.k {
+  color: rgb(222, 184, 135);
+  background-color: rgb(233, 150, 122);
+  box-shadow: 0 8px 16px 0 rgba(222, 184, 135), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
+
+.l {
+  color: rgb(85, 107, 47);
+  background-color: darkkhaki;
+  box-shadow: 0 8px 16px 0 rgb(137, 156, 103), 0 6px 20px 0 rgba(0,0,0,0.19);
+  font-family: 'Oswald', sans-serif;
+}
