@@ -1,6 +1,6 @@
 # Terminal Hunt   
 ## Solution 
-Firstly i began by cloning the repository using the git clone command in my terminal window.
+Firstly I began by cloning the repository using the git clone command in my terminal window.
 Made a new folder called solution using mkdir command and then access the same folder using ```cd solution``` command.
 Created a file named part1.txt using the command ```touch part1.txt ``` and then I edited to the file using ```cat > part1.txt```.
 
