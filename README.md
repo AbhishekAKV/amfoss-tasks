@@ -22,3 +22,8 @@
 | [Task-13] | Footfall Counter | Not Attempted till yet |
 | [Task-14](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-14) | Bandit | Completed |
 | [Task-15] | Project Euler (for math geeks) | Not Attempted till yet |
+
+
+## My View about the tasks
+The tasks were exciting and enjoyable to complete. I approached each task as a problem to be overcome, learning as I went along and honing my talents. Since technology is an area that is continually expanding, I am certain that I will find this experience useful at some point.
+They were so incredible that I am at a loss for words to adequately explain them. The finest aspect of it is that this challenge us to learn more. The challenges are intended to develop the habit of self-learning, and in my experience, they have been beneficial.
