@@ -12,14 +12,14 @@
 | [Task-03](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-03) | Hacker Rank Programming | Completed 7 Questions |
 | [Task-04](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-04) | Cinebot | Completed |
 | [Task-05](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-05) | Find the BUG | Completed |
-| [Task-06] | Flame Game | Not Attempted till yet |
+| [Task-06](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-06)| Flame Game | Completed |
 | [Task-07] | Go WASM | Not Attempted till yet |
 | [Task-08](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-08) | Internet Explorer | Completed |
 | [Task-09] | Krypto Scrapper | Not Attempted till yet |
 | [Task-10](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-10) | CS50 | Completed 0 to 3 |
 | [Task-11] | Figma Ninja | Not Attempted till yet |
 | [Task-12] | Bunny Heist | Not Attempted till yet |
-| [Task-13] | Footfall Counter | Not Attempted till yet |
+| [Task-13](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-13)| Footfall Counter | Completed |
 | [Task-14](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-14) | Bandit | Completed |
 | [Task-15] | Project Euler (for math geeks) | Not Attempted till yet |
 
