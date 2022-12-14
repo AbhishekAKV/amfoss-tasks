@@ -16,7 +16,7 @@
 | [Task-07] | Go WASM | Not Attempted till yet |
 | [Task-08](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-08) | Internet Explorer | Completed |
 | [Task-09] | Krypto Scrapper | Not Attempted till yet |
-| [Task-10] | CS50 | Not Attempted till yet |
+| [Task-10](https://github.com/AbhishekAKV/amfoss-tasks/tree/main/task-10) | CS50 | Completed 0 to 3 |
 | [Task-11] | Figma Ninja | Not Attempted till yet |
 | [Task-12] | Bunny Heist | Not Attempted till yet |
 | [Task-13] | Footfall Counter | Not Attempted till yet |
